@@ -1,0 +1,67 @@
+04:42:17 ===========================
+04:42:17 <input> 299999999
+04:42:18 admin tool active
+04:42:21 admin tool press Page up
+04:42:21 Key: 18
+04:42:21 Sellected ID: 18
+04:42:21 admin tool open
+04:42:23 admin tool press Page up
+04:42:23 Key: 17
+04:42:23 Sellected ID: 17
+04:42:23 admin tool open
+04:42:34 admin tool press Page up
+04:42:34 Key: 17
+04:42:34 Sellected ID: 17
+04:42:34 admin tool open
+04:42:36 admin tool press Page up
+04:42:36 Key: 18
+04:42:36 Sellected ID: 18
+04:42:36 admin tool open
+04:42:51 admin tool press Page up
+04:42:51 Key: 17
+04:42:51 Sellected ID: 17
+04:42:51 admin tool open
+04:45:22 Start smartlock!!!
+04:55:58 admin tool press Page up
+04:55:58 Key: 6���4���;��p���
+04:55:58 Sellected ID: 6
+06:17:16 ===========================
+06:17:16 <input> 54228���
+06:17:16 receive normal key
+06:17:16 Code invalid!
+06:35:18 admin tool press Page up
+06:35:18 Key: 1
+06:35:18 Sellected ID: 1
+06:35:23 admin tool press Page up
+06:35:23 Key: 01
+06:35:23 Sellected ID: 1
+08:52:34 ===========================
+08:52:34 <input> 01
+08:52:34 receive normal key
+08:52:34 SENDER USE KEYBOARD
+08:52:34 <code> 1
+08:52:34 Sender unlock
+08:52:34 waiting....
+08:52:34 No Internet
+20:19:49 ===========================
+20:19:49 <input> 069711098
+20:19:49 receive normal key
+20:19:49 SENDER USE KEYBOARD
+20:19:49 <code> 69711098
+20:19:49 Sender unlock
+20:19:49 waiting....
+20:19:50 Waiting Lock position: 
+20:19:50 API lock
+20:19:50 waiting....
+20:19:50 No Internet
+20:20:15 ===========================
+20:20:15 <input> 043432251
+20:20:15 receive normal key
+20:20:15 SENDER USE KEYBOARD
+20:20:15 <code> 43432251
+20:20:15 Sender unlock
+20:20:15 waiting....
+20:20:16 Waiting Lock position: 
+20:20:16 API lock
+20:20:16 waiting....
+20:20:16 No Internet

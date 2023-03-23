@@ -1,0 +1,13 @@
+04:45:21 Start smartlock!!!
+11:30:04 ===========================
+11:30:04 <input> D���4���
+11:30:04 receive normal key
+11:30:04 Code invalid!
+11:30:15 ===========================
+11:30:15 <input> D
+11:30:15 receive normal key
+11:30:15 Code invalid!
+11:30:16 ===========================
+11:30:16 <input> D
+11:30:16 receive normal key
+11:30:16 Code invalid!

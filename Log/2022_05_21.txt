@@ -1,0 +1,569 @@
+10:51:05 Start smartlock!!!
+10:51:44 ===========================
+10:51:44 <input> Dt�4+�
+10:51:44 receive normal key
+10:51:45 Code invalid!
+10:51:46 ===========================
+10:51:46 <input> D
+10:51:46 receive normal key
+10:51:46 Code invalid!
+10:51:55 ===========================
+10:51:55 <input> D
+10:51:55 receive normal key
+10:51:55 Code invalid!
+11:15:16 Start smartlock!!!
+11:23:02 ===========================
+11:23:02 <input> D��4��
+11:23:02 receive normal key
+11:23:02 Code invalid!
+11:49:13 Start smartlock!!!
+11:50:16 Start smartlock!!!
+12:01:49 Start smartlock!!!
+12:05:36 ===========================
+12:05:36 <input> Dt�4+�
+12:05:36 receive normal key
+12:05:36 Code invalid!
+12:07:41 Start smartlock!!!
+12:11:16 ===========================
+12:11:16 <input> D��4{�
+12:11:16 receive normal key
+12:11:16 Code invalid!
+13:01:20 ===========================
+13:01:20 <input> D
+13:01:20 receive normal key
+13:01:20 Code invalid!
+13:10:07 ===========================
+13:10:07 <input> D
+13:10:07 receive normal key
+13:10:07 Code invalid!
+13:11:28 ===========================
+13:11:28 <input> 084748188
+13:11:28 receive normal key
+13:11:28 SENDER USE KEYBOARD
+13:11:28 <code> 84748188
+13:11:28 Sender unlock
+13:11:28 waiting....
+13:11:28 receiver_code: 168448232
+13:11:28 drawer_position: A12
+13:11:28 Unlock position A12 success!
+13:11:31 Waiting Lock position: A12
+13:11:31 API lock
+13:11:31 waiting....
+13:11:32 Lock position A12 success!
+13:11:57 ===========================
+13:11:57 <input> 168448232
+13:11:57 receive normal key
+13:11:57 RECEIVER USE KEYBOARD
+13:11:57 <code> 68448232
+13:11:57 API receiver Unlock
+13:11:57 waiting....
+13:11:58 Unlock position A12 success!
+13:12:00 Waiting Lock position: A12
+13:12:01 API lock
+13:12:01 waiting....
+13:12:01 Lock position A12 success!
+13:21:00 ===========================
+13:21:00 <input> 1
+13:21:00 receive normal key
+13:21:00 RECEIVER USE KEYBOARD
+13:21:00 <code> 
+13:21:00 API receiver Unlock
+13:21:00 waiting....
+13:21:00 Code invalid
+13:33:39 ===========================
+13:33:39 <input> 1
+13:33:39 receive normal key
+13:33:39 RECEIVER USE KEYBOARD
+13:33:39 <code> 
+13:33:39 API receiver Unlock
+13:33:39 waiting....
+13:33:39 Code invalid
+13:36:32 ===========================
+13:36:32 <input> 1
+13:36:32 receive normal key
+13:36:32 RECEIVER USE KEYBOARD
+13:36:32 <code> 
+13:36:32 API receiver Unlock
+13:36:32 waiting....
+13:36:33 Code invalid
+13:51:37 Start smartlock!!!
+14:00:50 ===========================
+14:00:50 <input> D��4K�
+14:00:50 receive normal key
+14:00:50 Code invalid!
+14:02:52 Start smartlock!!!
+14:04:18 ===========================
+14:04:18 <input> 299999999
+14:04:18 admin tool active
+14:04:24 admin tool press Page up
+14:04:24 Key: 1
+14:04:24 Sellected ID: 1
+14:04:24 admin tool open
+14:04:28 admin tool press Page up
+14:04:28 Key: 2
+14:04:28 Sellected ID: 2
+14:04:28 admin tool open
+14:04:30 admin tool press Page up
+14:04:30 Key: 3
+14:04:30 Sellected ID: 3
+14:04:30 admin tool open
+14:04:31 admin tool press Page up
+14:04:31 Key: 20
+14:04:31 Sellected ID: 20
+14:04:31 admin tool open
+14:04:35 admin tool press Page up
+14:04:35 Key: 40
+14:04:35 Sellected ID: 4
+14:04:35 admin tool open
+14:04:37 admin tool press Page up
+14:04:37 Key: 50
+14:04:37 Sellected ID: 5
+14:04:37 admin tool open
+14:04:37 admin tool press Page up
+14:04:37 Key: 60
+14:04:37 Sellected ID: 6
+14:04:37 admin tool open
+14:04:38 admin tool press Page up
+14:04:38 Key: 70
+14:04:38 Sellected ID: 7
+14:04:38 admin tool open
+14:04:40 admin tool press Page up
+14:04:40 Key: 80
+14:04:40 Sellected ID: 8
+14:04:40 admin tool open
+14:04:41 admin tool press Page up
+14:04:41 Key: 80
+14:04:41 Sellected ID: 8
+14:04:41 admin tool open
+14:04:43 admin tool press Page up
+14:04:43 Key: 90
+14:04:43 Sellected ID: 9
+14:04:43 admin tool open
+14:04:44 admin tool press Page up
+14:04:44 Key: 10
+14:04:44 Sellected ID: 10
+14:04:44 admin tool open
+14:04:46 admin tool press Page up
+14:04:46 Key: 11
+14:04:46 Sellected ID: 11
+14:04:46 admin tool open
+14:04:48 admin tool press Page up
+14:04:48 Key: 12
+14:04:48 Sellected ID: 12
+14:04:48 admin tool open
+14:04:49 admin tool press Page up
+14:04:49 Key: 13
+14:04:49 Sellected ID: 13
+14:04:49 admin tool open
+14:04:51 admin tool press Page up
+14:04:51 Key: 14
+14:04:51 Sellected ID: 14
+14:04:51 admin tool open
+14:04:52 admin tool press Page up
+14:04:52 Key: 15
+14:04:52 Sellected ID: 15
+14:04:52 admin tool open
+14:04:53 admin tool press Page up
+14:04:53 Key: 16
+14:04:53 Sellected ID: 16
+14:04:53 admin tool open
+14:04:55 admin tool press Page up
+14:04:55 Key: 17
+14:04:55 Sellected ID: 17
+14:04:55 admin tool open
+14:04:56 admin tool press Page up
+14:04:56 Key: 18
+14:04:56 Sellected ID: 18
+14:04:56 admin tool open
+14:04:57 admin tool press Page up
+14:04:57 Key: 18
+14:04:57 Sellected ID: 1
+14:04:57 admin tool open
+14:04:58 admin tool press Page up
+14:04:58 Key: 20
+14:04:58 Sellected ID: 20
+14:04:58 admin tool open
+14:05:00 admin tool press Page up
+14:05:00 Key: 21
+14:05:00 Sellected ID: 21
+14:05:00 admin tool open
+14:05:01 admin tool press Page up
+14:05:01 Key: 22
+14:05:01 Sellected ID: 22
+14:05:01 admin tool open
+14:05:03 admin tool press Page up
+14:05:03 Key: 23
+14:05:03 Sellected ID: 23
+14:05:03 admin tool open
+14:05:04 admin tool press Page up
+14:05:04 Key: 24
+14:05:04 Sellected ID: 24
+14:05:04 admin tool open
+14:05:05 admin tool press Page up
+14:05:05 Key: 25
+14:05:05 Sellected ID: 25
+14:05:05 admin tool open
+14:05:06 admin tool press Page up
+14:05:06 Key: 25
+14:05:06 Sellected ID: 255
+14:05:06 admin tool open
+14:05:06 admin tool press Page up
+14:05:06 Key: 25
+14:05:06 Sellected ID: 255
+14:05:06 admin tool open
+14:05:07 admin tool press Page up
+14:05:07 Key: 25
+14:05:07 Sellected ID: 255
+14:05:07 admin tool open
+14:05:07 admin tool press Page up
+14:05:07 Key: 25
+14:05:07 Sellected ID: 255
+14:05:07 admin tool open
+14:05:08 admin tool press Page up
+14:05:08 Key: 25
+14:05:08 Sellected ID: 25
+14:05:08 admin tool open
+14:05:10 admin tool press Page up
+14:05:10 Key: 25
+14:05:10 Sellected ID: 25
+14:05:10 admin tool open
+14:05:11 admin tool press Page up
+14:05:11 Key: 26
+14:05:11 Sellected ID: 26
+14:05:11 admin tool open
+14:05:13 admin tool press Page up
+14:05:13 Key: 27
+14:05:13 Sellected ID: 27
+14:05:13 admin tool open
+14:05:21 admin tool press Page up
+14:05:21 Key: 25
+14:05:21 Sellected ID: 25
+14:05:21 admin tool open
+14:05:22 admin tool press Page up
+14:05:22 Key: 26
+14:05:22 Sellected ID: 26
+14:05:22 admin tool open
+14:05:24 admin tool press Page up
+14:05:24 Key: 27
+14:05:24 Sellected ID: 27
+14:05:24 admin tool open
+14:05:25 admin tool press Page up
+14:05:25 Key: 28
+14:05:25 Sellected ID: 28
+14:05:25 admin tool open
+14:05:26 admin tool press Page up
+14:05:26 Key: 29
+14:05:26 Sellected ID: 29
+14:05:26 admin tool open
+14:05:28 admin tool press Page up
+14:05:28 Key: 30
+14:05:28 Sellected ID: 30
+14:05:28 admin tool open
+14:05:30 admin tool press Page up
+14:05:30 Key: 31
+14:05:30 Sellected ID: 31
+14:05:30 admin tool open
+14:05:31 admin tool press Page up
+14:05:31 Key: 32
+14:05:31 Sellected ID: 32
+14:05:31 admin tool open
+14:05:32 admin tool press Page up
+14:05:32 Key: 33
+14:05:32 Sellected ID: 33
+14:05:32 admin tool open
+14:05:34 admin tool press Page up
+14:05:34 Key: 33
+14:05:34 Sellected ID: 3
+14:05:34 admin tool open
+14:05:35 admin tool press Page up
+14:05:35 Key: 33
+14:05:35 Sellected ID: 3
+14:05:35 admin tool open
+14:05:36 admin tool press Page up
+14:05:36 Key: 36
+14:05:36 Sellected ID: 36
+14:05:36 admin tool open
+14:05:38 admin tool press Page up
+14:05:38 Key: 37
+14:05:38 Sellected ID: 37
+14:05:38 admin tool open
+14:05:39 admin tool press Page up
+14:05:39 Key: 38
+14:05:39 Sellected ID: 38
+14:05:39 admin tool open
+14:05:40 admin tool press Page up
+14:05:40 Key: 39
+14:05:40 Sellected ID: 39
+14:05:40 admin tool open
+14:05:43 admin tool press Page up
+14:05:43 Key: 40
+14:05:43 Sellected ID: 40
+14:05:43 admin tool open
+14:05:45 admin tool press Page up
+14:05:45 Key: 41
+14:05:45 Sellected ID: 41
+14:05:45 admin tool open
+14:05:47 admin tool press Page up
+14:05:47 Key: 42
+14:05:47 Sellected ID: 42
+14:05:47 admin tool open
+14:05:48 admin tool press Page up
+14:05:48 Key: 42
+14:05:48 Sellected ID: 4
+14:05:48 admin tool open
+14:05:50 admin tool press Page up
+14:05:50 Key: 44
+14:05:50 Sellected ID: 44
+14:05:50 admin tool open
+14:05:52 admin tool press Page up
+14:05:52 Key: 45
+14:05:52 Sellected ID: 45
+14:05:52 admin tool open
+14:05:53 admin tool press Page up
+14:05:53 Key: 46
+14:05:53 Sellected ID: 46
+14:05:53 admin tool open
+14:05:55 admin tool press Page up
+14:05:55 Key: 46
+14:05:55 Sellected ID: 4
+14:05:55 admin tool open
+14:05:57 admin tool press Page up
+14:05:57 Key: 48
+14:05:57 Sellected ID: 48
+14:05:57 admin tool open
+14:05:58 admin tool press Page up
+14:05:58 Key: 48
+14:05:58 Sellected ID: 4
+14:05:58 admin tool open
+14:05:59 admin tool press Page up
+14:05:59 Key: 98
+14:05:59 Sellected ID: 9
+14:05:59 admin tool open
+14:06:01 admin tool press Page up
+14:06:01 Key: 50
+14:06:01 Sellected ID: 50
+14:06:01 admin tool open
+14:06:05 admin tool press Page up
+14:06:05 Key: 50
+14:06:05 Sellected ID: 5
+14:06:05 admin tool open
+14:06:06 admin tool press Page up
+14:06:06 Key: 52
+14:06:06 Sellected ID: 52
+14:06:06 admin tool open
+14:06:08 admin tool press Page up
+14:06:08 Key: 53
+14:06:08 Sellected ID: 53
+14:06:08 admin tool open
+14:06:10 admin tool press Page up
+14:06:10 Key: 54
+14:06:10 Sellected ID: 54
+14:06:10 admin tool open
+14:06:12 admin tool press Page up
+14:06:12 Key: 55
+14:06:12 Sellected ID: 55
+14:06:12 admin tool open
+14:06:14 admin tool press Page up
+14:06:14 Key: 56
+14:06:14 Sellected ID: 56
+14:06:14 admin tool open
+14:06:15 admin tool press Page up
+14:06:15 Key: 57
+14:06:15 Sellected ID: 57
+14:06:15 admin tool open
+14:06:17 admin tool press Page up
+14:06:17 Key: 58
+14:06:17 Sellected ID: 58
+14:06:17 admin tool open
+14:06:19 admin tool press Page up
+14:06:19 Key: 59
+14:06:19 Sellected ID: 59
+14:06:19 admin tool open
+14:06:21 admin tool press Page up
+14:06:21 Key: 60
+14:06:21 Sellected ID: 60
+14:06:21 admin tool open
+14:06:23 admin tool press Page up
+14:06:23 Key: 61
+14:06:23 Sellected ID: 61
+14:06:23 admin tool open
+14:06:25 admin tool press Page up
+14:06:25 Key: 62
+14:06:25 Sellected ID: 62
+14:06:25 admin tool open
+14:06:26 admin tool press Page up
+14:06:26 Key: 63
+14:06:26 Sellected ID: 63
+14:06:26 admin tool open
+14:06:28 admin tool press Page up
+14:06:28 Key: 64
+14:06:28 Sellected ID: 64
+14:06:28 admin tool open
+14:06:30 admin tool press Page up
+14:06:30 Key: 65
+14:06:30 Sellected ID: 65
+14:06:30 admin tool open
+14:06:32 admin tool press Page up
+14:06:32 Key: 66
+14:06:32 Sellected ID: 66
+14:06:32 admin tool open
+14:06:33 admin tool press Page up
+14:06:33 Key: 67
+14:06:33 Sellected ID: 67
+14:06:33 admin tool open
+14:06:35 admin tool press Page up
+14:06:35 Key: 68
+14:06:35 Sellected ID: 68
+14:06:35 admin tool open
+14:06:37 admin tool press Page up
+14:06:37 Key: 69
+14:06:37 Sellected ID: 69
+14:06:37 admin tool open
+14:06:37 admin tool press Page up
+14:06:37 Key: 69
+14:06:37 Sellected ID: 255
+14:06:37 admin tool open
+14:06:38 admin tool press Page up
+14:06:38 Key: 69
+14:06:38 Sellected ID: 255
+14:06:38 admin tool open
+14:06:38 admin tool press Page up
+14:06:38 Key: 69
+14:06:38 Sellected ID: 255
+14:06:38 admin tool open
+14:06:39 admin tool press Page up
+14:06:39 Key: 69
+14:06:39 Sellected ID: 69
+14:06:39 admin tool open
+14:06:40 admin tool press Page up
+14:06:40 Key: 69
+14:06:40 Sellected ID: 255
+14:06:40 admin tool open
+14:06:40 admin tool press Page up
+14:06:40 Key: 69
+14:06:40 Sellected ID: 255
+14:06:40 admin tool open
+14:06:40 admin tool press Page up
+14:06:40 Key: 69
+14:06:40 Sellected ID: 255
+14:06:40 admin tool open
+14:06:42 admin tool press Page up
+14:06:42 Key: 70
+14:06:42 Sellected ID: 70
+14:06:42 admin tool open
+14:06:44 admin tool press Page up
+14:06:44 Key: 71
+14:06:44 Sellected ID: 71
+14:06:44 admin tool open
+14:06:46 admin tool press Page up
+14:06:46 Key: 72
+14:06:46 Sellected ID: 72
+14:06:46 admin tool open
+14:26:36 ===========================
+14:26:36 <input> 72
+14:26:36 Code invalid!
+14:55:03 Start smartlock!!!
+14:56:15 ===========================
+14:56:15 <input> DT�4�
+14:56:15 receive normal key
+14:56:15 Code invalid!
+14:56:32 ===========================
+14:56:32 <input> D
+14:56:32 receive normal key
+14:56:32 Code invalid!
+14:57:28 ===========================
+14:57:28 <input> 003811081
+14:57:28 receive normal key
+14:57:28 SENDER USE KEYBOARD
+14:57:28 <code> 03811081
+14:57:28 Sender unlock
+14:57:28 waiting....
+14:57:29 receiver_code: 171096434
+14:57:29 drawer_position: A12
+14:57:29 Unlock position A12 success!
+14:57:31 Waiting Lock position: A12
+14:57:31 API lock
+14:57:31 waiting....
+14:57:32 Lock position A12 success!
+14:57:51 ===========================
+14:57:51 <input> 171096434
+14:57:51 receive normal key
+14:57:51 RECEIVER USE KEYBOARD
+14:57:51 <code> 71096434
+14:57:51 API receiver Unlock
+14:57:51 waiting....
+14:57:52 Unlock position A12 success!
+14:57:54 Waiting Lock position: A12
+14:57:54 API lock
+14:57:54 waiting....
+14:57:54 Lock position A12 success!
+14:59:00 ===========================
+14:59:00 <input> 1
+14:59:00 receive normal key
+14:59:00 RECEIVER USE KEYBOARD
+14:59:00 <code> 
+14:59:00 API receiver Unlock
+14:59:00 waiting....
+14:59:00 Code invalid
+15:00:30 ===========================
+15:00:30 <input> 1
+15:00:30 receive normal key
+15:00:30 RECEIVER USE KEYBOARD
+15:00:30 <code> 
+15:00:30 API receiver Unlock
+15:00:30 waiting....
+15:00:31 Code invalid
+15:00:52 ===========================
+15:00:52 SENDER SCAN QR
+15:00:52 <code> 25924532
+15:00:52 Sender unlock
+15:00:52 waiting....
+15:00:52 receiver_code: 123794476
+15:00:52 drawer_position: A12
+15:00:52 Unlock position A12 success!
+15:00:55 Waiting Lock position: A12
+15:00:55 API lock
+15:00:55 waiting....
+15:00:55 Lock position A12 success!
+15:01:10 ===========================
+15:01:10 SENDER SCAN QR
+15:01:10 <code> 80481197
+15:01:10 Sender unlock
+15:01:10 waiting....
+15:01:10 receiver_code: 109838675
+15:01:10 drawer_position: A11
+15:01:10 Unlock position A11 success!
+15:01:13 Waiting Lock position: A11
+15:01:13 API lock
+15:01:13 waiting....
+15:01:14 Lock position A11 success!
+15:01:30 ===========================
+15:01:30 RECEIVER SCAN QR
+15:01:30 <code> 09838675
+15:01:30 API receiver Unlock
+15:01:30 waiting....
+15:01:30 Unlock position A11 success!
+15:01:33 Waiting Lock position: A11
+15:01:33 API lock
+15:01:33 waiting....
+15:01:33 Lock position A11 success!
+15:01:45 ===========================
+15:01:45 RECEIVER SCAN QR
+15:01:45 <code> 23794476
+15:01:45 API receiver Unlock
+15:01:45 waiting....
+15:01:45 Unlock position A12 success!
+15:01:48 Waiting Lock position: A12
+15:01:48 API lock
+15:01:48 waiting....
+15:01:48 Lock position A12 success!
+16:03:35 Start smartlock!!!
+16:03:38 ===========================
+16:03:38 <input> D4
+�4��
+16:03:38 receive normal key
+16:03:38 Code invalid!
+16:03:53 ===========================
+16:03:53 <input> D
+16:03:53 receive normal key
+16:03:53 Code invalid!

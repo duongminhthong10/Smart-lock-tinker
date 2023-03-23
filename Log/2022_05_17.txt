@@ -1,0 +1,516 @@
+12:34:14 Start smartlock!!!
+12:34:18 ===========================
+12:34:18 <input> D���4���
+12:34:18 receive normal key
+12:34:18 Code invalid!
+12:35:49 ===========================
+12:35:49 <input> D
+12:35:49 receive normal key
+12:35:49 Code invalid!
+12:36:50 ===========================
+12:36:50 <input> D
+12:36:50 receive normal key
+12:36:50 Code invalid!
+12:37:00 ===========================
+12:37:00 <input> D
+12:37:00 receive normal key
+12:37:01 Code invalid!
+12:37:03 ===========================
+12:37:03 <input> D
+12:37:03 receive normal key
+12:37:03 Code invalid!
+12:37:04 ===========================
+12:37:04 <input> D
+12:37:04 receive normal key
+12:37:04 Code invalid!
+12:37:05 ===========================
+12:37:05 <input> D
+12:37:05 receive normal key
+12:37:05 Code invalid!
+12:37:06 ===========================
+12:37:06 <input> D
+12:37:06 receive normal key
+12:37:07 Code invalid!
+12:37:09 ===========================
+12:37:09 <input> D
+12:37:09 receive normal key
+12:37:09 Code invalid!
+12:37:11 ===========================
+12:37:11 <input> D
+12:37:11 receive normal key
+12:37:12 Code invalid!
+12:37:14 ===========================
+12:37:14 <input> D
+12:37:14 receive normal key
+12:37:14 Code invalid!
+12:37:16 ===========================
+12:37:16 <input> D
+12:37:16 receive normal key
+12:37:16 Code invalid!
+12:37:31 ===========================
+12:37:31 <input> D
+12:37:31 receive normal key
+12:37:31 Code invalid!
+12:37:32 ===========================
+12:37:32 <input> D
+12:37:32 receive normal key
+12:37:33 Code invalid!
+12:37:34 ===========================
+12:37:34 <input> D
+12:37:34 receive normal key
+12:37:34 Code invalid!
+12:37:35 ===========================
+12:37:35 <input> D
+12:37:35 receive normal key
+12:37:36 Code invalid!
+12:37:37 ===========================
+12:37:37 <input> D
+12:37:37 receive normal key
+12:37:37 Code invalid!
+12:37:38 ===========================
+12:37:38 <input> D
+12:37:38 receive normal key
+12:37:39 Code invalid!
+12:37:40 ===========================
+12:37:40 <input> D
+12:37:40 receive normal key
+12:37:40 Code invalid!
+12:37:59 Start smartlock!!!
+12:38:01 ===========================
+12:38:01 <input> D��4[��
+12:38:01 receive normal key
+12:38:02 Code invalid!
+12:39:02 ===========================
+12:39:02 <input> D
+12:39:02 receive normal key
+12:39:02 Code invalid!
+12:39:10 ===========================
+12:39:10 <input> D
+12:39:10 receive normal key
+12:39:10 Code invalid!
+12:39:11 ===========================
+12:39:11 <input> D
+12:39:11 receive normal key
+12:39:11 Code invalid!
+12:39:12 ===========================
+12:39:12 <input> D
+12:39:12 receive normal key
+12:39:13 Code invalid!
+12:39:14 ===========================
+12:39:14 <input> D
+12:39:14 receive normal key
+12:39:14 Code invalid!
+12:39:19 ===========================
+12:39:19 <input> D
+12:39:19 receive normal key
+12:39:19 Code invalid!
+12:39:22 ===========================
+12:39:22 <input> D
+12:39:22 receive normal key
+12:39:23 Code invalid!
+12:39:24 ===========================
+12:39:24 <input> D
+12:39:24 receive normal key
+12:39:24 Code invalid!
+12:39:43 Start smartlock!!!
+12:39:47 ===========================
+12:39:47 <input> D��4;�
+12:39:47 receive normal key
+12:39:47 Code invalid!
+12:40:46 ===========================
+12:40:46 <input> D
+12:40:46 receive normal key
+12:40:46 Code invalid!
+12:41:05 ===========================
+12:41:05 <input> D
+12:41:05 receive normal key
+12:41:05 Code invalid!
+12:50:22 Start smartlock!!!
+12:50:29 ===========================
+12:50:29 <input> D��4k���
+12:50:29 receive normal key
+12:50:29 Code invalid!
+12:51:16 ===========================
+12:51:16 <input> 042681246
+12:51:16 receive normal key
+12:51:16 SENDER USE KEYBOARD
+12:51:16 <code> 42681246
+12:51:16 Sender unlock
+12:51:16 waiting....
+12:51:16 receiver_code: 139852518
+12:51:16 drawer_position: -1
+12:51:16 Unlock position -1 success!
+12:51:17 Waiting Lock position: -1
+12:51:18 API lock
+12:51:18 waiting....
+12:51:18 Lock position -1 success!
+12:52:40 Start smartlock!!!
+12:52:47 ===========================
+12:52:47 <input> 072593669
+12:52:47 receive normal key
+12:52:47 SENDER USE KEYBOARD
+12:52:47 <code> 72593669
+12:52:47 Sender unlock
+12:52:47 waiting....
+12:52:48 receiver_code: 178161752
+12:52:48 drawer_position: A10
+12:52:48 Unlock position A10 success!
+12:52:50 Waiting Lock position: A10
+12:52:50 API lock
+12:52:50 waiting....
+12:52:51 Lock position A10 success!
+12:53:08 ===========================
+12:53:08 <input> 178161752
+12:53:08 receive normal key
+12:53:08 RECEIVER USE KEYBOARD
+12:53:08 <code> 78161752
+12:53:08 API receiver Unlock
+12:53:08 waiting....
+12:53:09 Unlock position A10 success!
+12:53:11 Waiting Lock position: A10
+12:53:11 API lock
+12:53:11 waiting....
+12:53:12 Lock position A10 success!
+12:54:05 ===========================
+12:54:05 <input> 1
+12:54:05 receive normal key
+12:54:05 RECEIVER USE KEYBOARD
+12:54:05 <code> 
+12:54:05 API receiver Unlock
+12:54:05 waiting....
+12:54:06 Code invalid
+12:56:23 Start smartlock!!!
+12:56:38 ===========================
+12:56:38 <input> 132258665
+12:56:38 receive normal key
+12:56:38 RECEIVER USE KEYBOARD
+12:56:38 <code> 32258665
+12:56:38 API receiver Unlock
+12:56:38 waiting....
+12:56:41 Unlock position A12 success!
+12:56:43 Waiting Lock position: A12
+12:56:43 API lock
+12:56:43 waiting....
+12:56:44 Lock position A12 success!
+12:57:04 ===========================
+12:57:04 <input> 1
+12:57:04 receive normal key
+12:57:04 RECEIVER USE KEYBOARD
+12:57:04 <code> 
+12:57:04 API receiver Unlock
+12:57:04 waiting....
+12:57:07 Code invalid
+12:58:35 Start smartlock!!!
+13:00:04 ===========================
+13:00:04 <input> 132258665
+13:00:04 receive normal key
+13:00:04 RECEIVER USE KEYBOARD
+13:00:04 <code> 32258665
+13:00:04 API receiver Unlock
+13:00:04 waiting....
+13:00:04 Code invalid
+13:00:21 ===========================
+13:00:21 <input> 175522452
+13:00:21 receive normal key
+13:00:21 RECEIVER USE KEYBOARD
+13:00:21 <code> 75522452
+13:00:21 API receiver Unlock
+13:00:21 waiting....
+13:00:21 Unlock position A2 success!
+13:00:24 Waiting Lock position: A2
+13:00:24 API lock
+13:00:24 waiting....
+13:00:24 Lock position A2 success!
+13:00:42 ===========================
+13:00:42 <input> 111146913
+13:00:42 receive normal key
+13:00:42 RECEIVER USE KEYBOARD
+13:00:42 <code> 11146913
+13:00:42 API receiver Unlock
+13:00:42 waiting....
+13:00:43 Unlock position A11 success!
+13:00:45 Waiting Lock position: A11
+13:00:46 API lock
+13:00:46 waiting....
+13:00:46 Lock position A11 success!
+13:01:08 ===========================
+13:01:08 <input> 157342846
+13:01:08 receive normal key
+13:01:08 RECEIVER USE KEYBOARD
+13:01:08 <code> 57342846
+13:01:08 API receiver Unlock
+13:01:08 waiting....
+13:01:08 Unlock position A4 success!
+13:01:11 Waiting Lock position: A4
+13:01:11 API lock
+13:01:11 waiting....
+13:01:11 Lock position A4 success!
+13:02:58 Start smartlock!!!
+13:03:06 ===========================
+13:03:06 <input> 087133568
+13:03:06 receive normal key
+13:03:06 SENDER USE KEYBOARD
+13:03:06 <code> 87133568
+13:03:06 Sender unlock
+13:03:07 waiting....
+13:03:07 receiver_code: 105733427
+13:03:07 drawer_position: -1
+13:03:07 Unlock position -1 success!
+13:03:08 Waiting Lock position: -1
+13:03:08 API lock
+13:03:08 waiting....
+13:03:08 Lock position -1 success!
+13:03:45 Start smartlock!!!
+13:03:55 ===========================
+13:03:55 <input> D�
+�4;��
+13:03:55 receive normal key
+13:03:56 Code invalid!
+13:04:05 ===========================
+13:04:05 <input> 299999999
+13:04:06 admin tool active
+13:04:09 admin tool press Page up
+13:04:09 111
+13:04:09 admin tool open
+13:04:15 admin tool press Page up
+13:04:15 3126
+13:04:15 admin tool open
+13:04:19 admin tool press Page up
+13:04:19 2366
+13:04:19 admin tool open
+13:04:26 admin tool press Page up
+13:04:26 0366
+13:04:26 admin tool open
+13:05:06 ===========================
+13:05:06 <input> 0366
+13:05:06 SENDER USE KEYBOARD
+13:05:06 <code> 366
+13:05:06 Sender unlock
+13:05:06 waiting....
+13:05:06 Code invalid
+13:05:09 ===========================
+13:05:09 <input> 0
+13:05:09 SENDER USE KEYBOARD
+13:05:09 <code> 
+13:05:09 Sender unlock
+13:05:09 waiting....
+13:05:10 Code invalid
+13:06:36 ===========================
+13:06:36 <input> 0
+13:06:36 SENDER USE KEYBOARD
+13:06:36 <code> 
+13:06:36 Sender unlock
+13:06:36 waiting....
+13:06:36 Code invalid
+13:09:25 Start smartlock!!!
+13:09:29 ===========================
+13:09:29 <input> D��4[���
+13:09:29 receive normal key
+13:09:29 Code invalid!
+13:09:37 ===========================
+13:09:37 <input> 299999999
+13:09:38 admin tool active
+13:09:42 admin tool press Page up
+13:09:42 Key: 123
+13:09:42 Sellected ID: 255
+13:09:42 admin tool open
+13:10:41 ===========================
+13:10:41 <input> 123
+13:10:41 RECEIVER USE KEYBOARD
+13:10:41 <code> 23
+13:10:41 API receiver Unlock
+13:10:41 waiting....
+13:10:42 Code invalid
+13:10:52 ===========================
+13:10:52 <input> 1
+13:10:52 RECEIVER USE KEYBOARD
+13:10:52 <code> 
+13:10:52 API receiver Unlock
+13:10:52 waiting....
+13:10:52 Code invalid
+13:11:01 ===========================
+13:11:01 <input> 1
+13:11:01 RECEIVER USE KEYBOARD
+13:11:01 <code> 
+13:11:01 API receiver Unlock
+13:11:01 waiting....
+13:11:02 Code invalid
+13:11:48 admin tool press Page up
+13:11:48 Key: 2
+13:11:48 Sellected ID: 2
+13:11:48 admin tool open
+13:12:21 admin tool press Page up
+13:12:21 Key: 246
+13:12:21 Sellected ID: 255
+13:12:21 admin tool open
+13:12:40 admin tool press Page up
+13:12:40 Key: 336
+13:12:40 Sellected ID: 33
+13:12:40 admin tool open
+13:14:04 admin tool press Page up
+13:14:04 Key: 44444444
+13:14:04 Sellected ID: 255
+13:14:04 admin tool open
+13:14:24 admin tool press Page up
+13:14:24 Key: 44444444
+13:14:24 Sellected ID: 44
+13:14:24 admin tool open
+13:14:38 admin tool press Page up
+13:14:38 Key: 25444444
+13:14:38 Sellected ID: 25
+13:14:38 admin tool open
+13:16:38 Start smartlock!!!
+13:16:52 ===========================
+13:16:52 <input> D��4;�
+13:16:52 receive normal key
+13:16:52 Code invalid!
+13:17:29 ===========================
+13:17:29 <input> D
+13:17:29 receive normal key
+13:17:29 Code invalid!
+13:17:58 ===========================
+13:17:58 <input> 087133568
+13:17:58 receive normal key
+13:17:58 SENDER USE KEYBOARD
+13:17:58 <code> 87133568
+13:17:58 Sender unlock
+13:17:58 waiting....
+13:17:58 receiver_code: 184481050
+13:17:58 drawer_position: -1
+13:17:58 Unlock position -1 success!
+13:17:59 Waiting Lock position: -1
+13:18:00 API lock
+13:18:00 waiting....
+13:18:00 Lock position -1 success!
+13:18:12 ===========================
+13:18:12 <input> 0
+13:18:12 receive normal key
+13:18:12 SENDER USE KEYBOARD
+13:18:12 <code> 
+13:18:12 Sender unlock
+13:18:12 waiting....
+13:18:12 Code invalid
+13:18:35 ===========================
+13:18:35 <input> 0
+13:18:35 receive normal key
+13:18:35 SENDER USE KEYBOARD
+13:18:35 <code> 
+13:18:35 Sender unlock
+13:18:35 waiting....
+13:18:35 Code invalid
+13:18:55 Start smartlock!!!
+13:19:38 ===========================
+13:19:38 <input> 087133568
+13:19:38 receive normal key
+13:19:38 SENDER USE KEYBOARD
+13:19:38 <code> 87133568
+13:19:38 Sender unlock
+13:19:38 waiting....
+13:20:00 ===========================
+13:20:00 <input> 0
+13:20:00 receive normal key
+13:20:00 SENDER USE KEYBOARD
+13:20:00 <code> 
+13:20:00 Sender unlock
+13:20:00 waiting....
+13:20:01 Waiting Lock position: 
+13:20:01 API lock
+13:20:01 waiting....
+13:20:22 ===========================
+13:20:22 <input> 78
+13:20:22 receive normal key
+13:20:23 Code invalid!
+13:20:52 ===========================
+13:20:52 <input> 012846878
+13:20:52 receive normal key
+13:20:52 SENDER USE KEYBOARD
+13:20:52 <code> 12846878
+13:20:52 Sender unlock
+13:20:52 waiting....
+13:20:53 Waiting Lock position: 
+13:20:53 API lock
+13:20:53 waiting....
+13:21:10 ===========================
+13:21:10 <input> 0
+13:21:10 receive normal key
+13:21:10 SENDER USE KEYBOARD
+13:21:10 <code> 
+13:21:10 Sender unlock
+13:21:10 waiting....
+13:21:11 Waiting Lock position: 
+13:21:11 API lock
+13:21:11 waiting....
+13:24:50 Start smartlock!!!
+13:37:45 Start smartlock!!!
+13:52:10 ===========================
+13:52:10 <input> D	�4��
+13:52:10 receive normal key
+13:52:11 Code invalid!
+13:53:52 ===========================
+13:53:52 SENDER SCAN QR
+13:53:52 <code> 12846878
+13:53:52 Sender unlock
+13:53:52 waiting....
+13:53:52 receiver_code: 136293964
+13:53:52 drawer_position: A12
+13:53:52 Unlock position A12 success!
+13:53:54 Waiting Lock position: A12
+13:53:55 API lock
+13:53:55 waiting....
+13:53:55 Lock position A12 success!
+13:54:05 ===========================
+13:54:05 RECEIVER SCAN QR
+13:54:05 <code> 36293964
+13:54:05 API receiver Unlock
+13:54:05 waiting....
+13:54:06 Unlock position A12 success!
+13:54:08 Waiting Lock position: A12
+13:54:09 API lock
+13:54:09 waiting....
+13:54:09 Lock position A12 success!
+13:54:57 ===========================
+13:54:57 SENDER SCAN QR
+13:54:57 <code> 87133568
+13:54:57 Sender unlock
+13:54:57 waiting....
+13:54:57 receiver_code: 131733575
+13:54:57 drawer_position: A12
+13:54:57 Unlock position A12 success!
+13:54:59 Waiting Lock position: A12
+13:55:00 API lock
+13:55:00 waiting....
+13:55:00 Lock position A12 success!
+13:55:13 ===========================
+13:55:13 SENDER SCAN QR
+13:55:13 <code> 18231357
+13:55:13 Sender unlock
+13:55:13 waiting....
+13:55:14 receiver_code: 123287318
+13:55:14 drawer_position: A11
+13:55:14 Unlock position A11 success!
+13:55:16 Waiting Lock position: A11
+13:55:16 API lock
+13:55:16 waiting....
+13:55:17 Lock position A11 success!
+13:55:27 ===========================
+13:55:27 RECEIVER SCAN QR
+13:55:27 <code> 23287318
+13:55:27 API receiver Unlock
+13:55:27 waiting....
+13:55:28 Unlock position A11 success!
+13:55:31 Waiting Lock position: A11
+13:55:31 API lock
+13:55:31 waiting....
+13:55:31 Lock position A11 success!
+13:55:33 ===========================
+13:55:33 RECEIVER SCAN QR
+13:55:33 <code> 31733575
+13:55:33 API receiver Unlock
+13:55:33 waiting....
+13:55:33 Unlock position A12 success!
+13:55:36 Waiting Lock position: A12
+13:55:36 API lock
+13:55:36 waiting....
+13:55:36 Lock position A12 success!
+13:55:02 Start smartlock!!!
+16:48:55 Start smartlock!!!

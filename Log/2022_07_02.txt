@@ -1,0 +1,64 @@
+14:27:41 Start smartlock!!!
+14:27:46 ===========================
+14:27:46 <input> D���4k��
+14:27:46 receive normal key
+14:27:46 Code invalid!
+14:29:19 ===========================
+14:29:19 <input> D
+14:29:19 receive normal key
+14:29:20 Code invalid!
+14:29:34 ===========================
+14:29:34 <input> D
+14:29:34 receive normal key
+14:29:35 Code invalid!
+14:30:02 Start smartlock!!!
+14:30:14 ===========================
+14:30:14 <input> D�4��
+14:30:14 receive normal key
+14:30:15 Code invalid!
+14:31:52 ===========================
+14:31:52 <input> D
+14:31:52 receive normal key
+14:31:52 Code invalid!
+14:32:11 ===========================
+14:32:11 <input> D
+14:32:11 receive normal key
+14:32:11 Code invalid!
+14:32:28 ===========================
+14:32:28 <input> D
+14:32:28 receive normal key
+14:32:28 Code invalid!
+14:32:42 ===========================
+14:32:42 <input> D
+14:32:42 receive normal key
+14:32:43 Code invalid!
+14:36:19 Start smartlock!!!
+15:11:01 Start smartlock!!!
+15:22:00 Start smartlock!!!
+15:23:52 ===========================
+15:23:52 <input> 096549359
+15:23:52 receive normal key
+15:23:52 SENDER USE KEYBOARD
+15:23:52 <code> 96549359
+15:23:52 Sender unlock
+15:23:52 waiting....
+15:23:52 receiver_code: 142173554
+15:23:52 drawer_position: BH6
+15:23:52 Unlock position BH6 success!
+15:23:55 Waiting Lock position: BH6
+15:23:55 API lock
+15:23:55 waiting....
+15:23:55 Lock position BH6 success!
+15:24:19 ===========================
+15:24:19 <input> 142173554
+15:24:19 receive normal key
+15:24:19 RECEIVER USE KEYBOARD
+15:24:19 <code> 42173554
+15:24:19 API receiver Unlock
+15:24:19 waiting....
+15:24:19 Unlock position BH6 success!
+15:24:22 Waiting Lock position: BH6
+15:24:22 API lock
+15:24:22 waiting....
+15:24:22 Lock position BH6 success!
+15:53:30 Start smartlock!!!

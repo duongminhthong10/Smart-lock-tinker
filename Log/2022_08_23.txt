@@ -1,0 +1,13 @@
+04:45:21 Start smartlock!!!
+16:39:06 ===========================
+16:39:06 <input> 01�4+��
+16:39:06 receive normal key
+16:39:06 SENDER USE KEYBOARD
+16:39:06 <code> 1�4+��
+16:39:06 Sender unlock
+16:39:06 waiting....
+16:39:06 Code invalid
+17:42:57 ===========================
+17:42:57 <input> 498168
+17:42:57 receive normal key
+17:42:57 Code invalid!

@@ -1,0 +1,50 @@
+22:07:48 Start smartlock!!!
+22:08:04 ===========================
+22:08:04 <input> 123456789
+22:08:04 receive normal key
+22:08:04 RECEIVER USE KEYBOARD
+22:08:04 <code> 23456789
+22:08:04 API receiver Unlock
+22:08:04 waiting....
+22:08:05 Code invalid
+22:08:35 ===========================
+22:08:35 <input> 123456789
+22:08:35 receive normal key
+22:08:35 RECEIVER USE KEYBOARD
+22:08:35 <code> 23456789
+22:08:35 API receiver Unlock
+22:08:35 waiting....
+22:08:35 Code invalid
+22:13:56 Start smartlock!!!
+22:14:02 ===========================
+22:14:02 <input> 123456789
+22:14:02 receive normal key
+22:14:02 RECEIVER USE KEYBOARD
+22:14:02 <code> 23456789
+22:14:02 API receiver Unlock
+22:14:02 waiting....
+22:14:02 Code invalid
+23:19:46 Start smartlock!!!
+23:33:20 Start smartlock!!!
+23:33:31 ===========================
+23:33:31 <input> 123456789
+23:33:31 receive normal key
+23:33:31 RECEIVER USE KEYBOARD
+23:33:31 <code> 23456789
+23:33:31 API receiver Unlock
+23:33:31 waiting....
+23:33:32 Code invalid
+23:44:14 Start smartlock!!!
+23:44:42 ===========================
+23:44:42 <input> 13456789�
+23:44:42 receive normal key
+23:44:42 RECEIVER USE KEYBOARD
+23:44:42 <code> 3456789�
+23:44:42 API receiver Unlock
+23:44:42 waiting....
+23:44:42 Code invalid
+23:58:06 Start smartlock!!!
+23:58:11 ===========================
+23:58:11 <input> DD�4�
+23:58:11 receive normal key
+23:58:11 Code invalid!

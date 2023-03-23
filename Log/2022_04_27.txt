@@ -1,0 +1,523 @@
+00:01:55 Start smartlock!!!
+00:02:01 ===========================
+00:02:01 <input> 111111111
+00:02:01 receive normal key
+00:02:01 RECEIVER USE KEYBOARD
+00:02:01 <code> 11111111
+00:02:01 API receiver Unlock
+00:02:01 waiting....
+00:02:01 Code invalid
+00:02:24 ===========================
+00:02:24 <input> 111111
+00:02:24 receive normal key
+00:02:24 RECEIVER USE KEYBOARD
+00:02:24 <code> 11111
+00:02:24 API receiver Unlock
+00:02:24 waiting....
+00:02:24 Code invalid
+00:02:27 ===========================
+00:02:27 <input> 1
+00:02:27 receive normal key
+00:02:27 RECEIVER USE KEYBOARD
+00:02:27 <code> 
+00:02:27 API receiver Unlock
+00:02:27 waiting....
+00:02:28 Code invalid
+00:02:42 ===========================
+00:02:42 <input> 111111111
+00:02:42 receive normal key
+00:02:42 RECEIVER USE KEYBOARD
+00:02:42 <code> 11111111
+00:02:42 API receiver Unlock
+00:02:42 waiting....
+00:02:42 Code invalid
+00:03:19 ===========================
+00:03:19 <input> 1
+00:03:19 receive normal key
+00:03:19 RECEIVER USE KEYBOARD
+00:03:19 <code> 
+00:03:19 API receiver Unlock
+00:03:19 waiting....
+00:03:19 Code invalid
+00:04:20 Start smartlock!!!
+00:04:36 ===========================
+00:04:36 <input> 11111111�
+00:04:36 receive normal key
+00:04:36 RECEIVER USE KEYBOARD
+00:04:36 <code> 1111111�
+00:04:36 API receiver Unlock
+00:04:36 waiting....
+00:04:36 Code invalid
+00:05:01 ===========================
+00:05:01 <input> 111111111
+00:05:01 receive normal key
+00:05:01 RECEIVER USE KEYBOARD
+00:05:01 <code> 11111111
+00:05:01 API receiver Unlock
+00:05:01 waiting....
+00:05:01 Code invalid
+00:05:28 ===========================
+00:05:28 <input> 111111111
+00:05:28 receive normal key
+00:05:28 RECEIVER USE KEYBOARD
+00:05:28 <code> 11111111
+00:05:28 API receiver Unlock
+00:05:28 waiting....
+00:05:28 Code invalid
+00:07:03 Start smartlock!!!
+00:07:59 ===========================
+00:07:59 <input> 111111111
+00:07:59 receive normal key
+00:07:59 RECEIVER USE KEYBOARD
+00:07:59 <code> 11111111
+00:07:59 API receiver Unlock
+00:07:59 waiting....
+00:07:59 Code invalid
+00:08:19 ===========================
+00:08:19 <input> 111111111
+00:08:19 receive normal key
+00:08:19 RECEIVER USE KEYBOARD
+00:08:19 <code> 11111111
+00:08:19 API receiver Unlock
+00:08:19 waiting....
+00:08:19 Code invalid
+00:10:37 Start smartlock!!!
+00:10:42 ===========================
+00:10:42 <input> 123456789
+00:10:42 receive normal key
+00:10:42 RECEIVER USE KEYBOARD
+00:10:42 <code> 23456789
+00:10:42 API receiver Unlock
+00:10:42 waiting....
+00:10:43 Code invalid
+00:11:29 ===========================
+00:11:29 <input> 1
+00:11:29 receive normal key
+00:11:29 RECEIVER USE KEYBOARD
+00:11:29 <code> 
+00:11:29 API receiver Unlock
+00:11:29 waiting....
+00:11:29 Code invalid
+00:12:08 ===========================
+00:12:08 <input> 1
+00:12:08 receive normal key
+00:12:08 RECEIVER USE KEYBOARD
+00:12:08 <code> 
+00:12:08 API receiver Unlock
+00:12:08 waiting....
+00:12:08 Code invalid
+00:14:09 Start smartlock!!!
+00:14:41 ===========================
+00:14:41 <input> 111111111
+00:14:41 receive normal key
+00:14:41 RECEIVER USE KEYBOARD
+00:14:41 <code> 11111111
+00:14:41 API receiver Unlock
+00:14:41 waiting....
+00:14:42 Code invalid
+00:15:04 ===========================
+00:15:04 <input> 111111111
+00:15:04 receive normal key
+00:15:04 RECEIVER USE KEYBOARD
+00:15:04 <code> 11111111
+00:15:04 API receiver Unlock
+00:15:04 waiting....
+00:15:04 Code invalid
+21:51:29 Start smartlock!!!
+21:52:29 Start smartlock!!!
+21:52:37 ===========================
+21:52:37 <input> 123456789
+21:52:37 receive normal key
+21:52:37 RECEIVER USE KEYBOARD
+21:52:37 <code> 23456789
+21:52:37 API receiver Unlock
+21:52:37 waiting....
+21:52:37 Code invalid
+21:53:03 ===========================
+21:53:03 <input> 1
+21:53:03 receive normal key
+21:53:03 RECEIVER USE KEYBOARD
+21:53:03 <code> 
+21:53:03 API receiver Unlock
+21:53:03 waiting....
+21:53:03 Code invalid
+21:54:03 Start smartlock!!!
+21:54:32 ===========================
+21:54:32 <input> 123456789
+21:54:32 receive normal key
+21:54:32 RECEIVER USE KEYBOARD
+21:54:32 <code> 23456789
+21:54:32 API receiver Unlock
+21:54:32 waiting....
+21:54:33 Code invalid
+21:54:59 ===========================
+21:54:59 <input> 123456789
+21:54:59 receive normal key
+21:54:59 RECEIVER USE KEYBOARD
+21:54:59 <code> 23456789
+21:54:59 API receiver Unlock
+21:54:59 waiting....
+21:55:00 Code invalid
+21:55:57 Start smartlock!!!
+21:56:07 ===========================
+21:56:07 <input> 123456789
+21:56:07 receive normal key
+21:56:07 RECEIVER USE KEYBOARD
+21:56:07 <code> 23456789
+21:56:07 API receiver Unlock
+21:56:07 waiting....
+21:56:08 Code invalid
+21:56:29 ===========================
+21:56:29 <input> 123456789
+21:56:29 receive normal key
+21:56:29 RECEIVER USE KEYBOARD
+21:56:29 <code> 23456789
+21:56:29 API receiver Unlock
+21:56:29 waiting....
+21:56:29 Code invalid
+21:56:52 ===========================
+21:56:52 <input> 1
+21:56:52 receive normal key
+21:56:52 RECEIVER USE KEYBOARD
+21:56:52 <code> 
+21:56:52 API receiver Unlock
+21:56:52 waiting....
+21:56:52 Code invalid
+22:00:19 Start smartlock!!!
+22:00:24 ===========================
+22:00:24 <input> 123456789
+22:00:24 receive normal key
+22:00:24 RECEIVER USE KEYBOARD
+22:00:24 <code> 23456789
+22:00:24 API receiver Unlock
+22:00:24 waiting....
+22:00:24 Code invalid
+22:00:49 ===========================
+22:00:49 <input> 123456789
+22:00:49 receive normal key
+22:00:49 RECEIVER USE KEYBOARD
+22:00:49 <code> 23456789
+22:00:49 API receiver Unlock
+22:00:49 waiting....
+22:00:49 Code invalid
+22:01:26 Start smartlock!!!
+22:01:41 ===========================
+22:01:41 <input> 123456789
+22:01:41 receive normal key
+22:01:41 RECEIVER USE KEYBOARD
+22:01:41 <code> 23456789
+22:01:41 API receiver Unlock
+22:01:41 waiting....
+22:01:41 Code invalid
+22:07:29 Start smartlock!!!
+22:07:35 ===========================
+22:07:35 <input> 13456789�
+22:07:35 receive normal key
+22:07:35 RECEIVER USE KEYBOARD
+22:07:35 <code> 3456789�
+22:07:35 API receiver Unlock
+22:07:35 waiting....
+22:07:36 Code invalid
+22:07:55 ===========================
+22:07:55 <input> 123456789
+22:07:55 receive normal key
+22:07:55 RECEIVER USE KEYBOARD
+22:07:55 <code> 23456789
+22:07:55 API receiver Unlock
+22:07:55 waiting....
+22:07:55 Code invalid
+22:08:50 Start smartlock!!!
+22:08:52 ===========================
+22:08:52 <input> 9t��4+���
+22:08:52 receive normal key
+22:08:52 Code invalid!
+22:09:21 ===========================
+22:09:21 <input> 123456789
+22:09:21 receive normal key
+22:09:21 RECEIVER USE KEYBOARD
+22:09:21 <code> 23456789
+22:09:21 API receiver Unlock
+22:09:21 waiting....
+22:09:21 Code invalid
+22:11:01 Start smartlock!!!
+22:11:07 ===========================
+22:11:07 <input> 123456789
+22:11:07 receive normal key
+22:11:07 RECEIVER USE KEYBOARD
+22:11:07 <code> 23456789
+22:11:07 API receiver Unlock
+22:11:07 waiting....
+22:11:07 Code invalid
+22:15:16 Start smartlock!!!
+22:16:29 Start smartlock!!!
+22:17:00 ===========================
+22:17:00 <input> 123456789
+22:17:00 receive normal key
+22:17:00 RECEIVER USE KEYBOARD
+22:17:00 <code> 23456789
+22:17:00 API receiver Unlock
+22:17:00 waiting....
+22:17:00 Code invalid
+22:19:20 Start smartlock!!!
+22:19:25 ===========================
+22:19:25 <input> 13456789ĕ
+22:19:25 receive normal key
+22:19:25 RECEIVER USE KEYBOARD
+22:19:25 <code> 3456789ĕ
+22:19:25 API receiver Unlock
+22:19:25 waiting....
+22:19:25 Code invalid
+22:19:45 ===========================
+22:19:45 <input> 123456790
+22:19:45 receive normal key
+22:19:45 RECEIVER USE KEYBOARD
+22:19:45 <code> 23456790
+22:19:45 API receiver Unlock
+22:19:45 waiting....
+22:19:45 Code invalid
+22:20:14 ===========================
+22:20:14 <input> 1
+22:20:14 receive normal key
+22:20:14 RECEIVER USE KEYBOARD
+22:20:14 <code> 
+22:20:14 API receiver Unlock
+22:20:14 waiting....
+22:20:15 Code invalid
+22:23:21 ===========================
+22:23:21 <input> 1
+22:23:21 receive normal key
+22:23:21 RECEIVER USE KEYBOARD
+22:23:21 <code> 
+22:23:21 API receiver Unlock
+22:23:21 waiting....
+22:23:21 Code invalid
+22:24:11 Start smartlock!!!
+22:24:17 ===========================
+22:24:17 <input> 123456789
+22:24:17 receive normal key
+22:24:17 RECEIVER USE KEYBOARD
+22:24:17 <code> 23456789
+22:24:17 API receiver Unlock
+22:24:17 waiting....
+22:24:17 Code invalid
+22:25:37 Start smartlock!!!
+22:25:45 ===========================
+22:25:45 <input> 123456789
+22:25:45 receive normal key
+22:25:45 RECEIVER USE KEYBOARD
+22:25:45 <code> 23456789
+22:25:45 API receiver Unlock
+22:25:45 waiting....
+22:25:45 Code invalid
+22:29:05 Start smartlock!!!
+22:29:11 ===========================
+22:29:11 <input> 123456789
+22:29:11 receive normal key
+22:29:11 RECEIVER USE KEYBOARD
+22:29:11 <code> 23456789
+22:29:11 API receiver Unlock
+22:29:11 waiting....
+22:29:11 Code invalid
+22:30:30 Start smartlock!!!
+22:30:38 ===========================
+22:30:38 <input> D�
+�4{�ą
+22:30:38 receive normal key
+22:30:38 Code invalid!
+22:32:56 Start smartlock!!!
+22:33:02 ===========================
+22:33:02 <input> 123456789
+22:33:02 receive normal key
+22:33:02 RECEIVER USE KEYBOARD
+22:33:02 <code> 23456789
+22:33:02 API receiver Unlock
+22:33:02 waiting....
+22:33:03 Code invalid
+22:34:52 Start smartlock!!!
+22:36:24 ===========================
+22:36:24 <input> 123456789
+22:36:24 receive normal key
+22:36:24 RECEIVER USE KEYBOARD
+22:36:24 <code> 23456789
+22:36:24 API receiver Unlock
+22:36:24 waiting....
+22:36:25 Code invalid
+22:36:57 ===========================
+22:36:57 <input> 1
+22:36:57 receive normal key
+22:36:57 RECEIVER USE KEYBOARD
+22:36:57 <code> 
+22:36:57 API receiver Unlock
+22:36:57 waiting....
+22:36:58 Code invalid
+22:38:04 Start smartlock!!!
+22:38:35 ===========================
+22:38:35 <input> 123456789
+22:38:35 receive normal key
+22:38:35 RECEIVER USE KEYBOARD
+22:38:35 <code> 23456789
+22:38:35 API receiver Unlock
+22:38:35 waiting....
+22:38:35 Code invalid
+22:39:27 Start smartlock!!!
+22:39:45 ===========================
+22:39:45 <input> 123456789
+22:39:45 receive normal key
+22:39:45 RECEIVER USE KEYBOARD
+22:39:45 <code> 23456789
+22:39:45 API receiver Unlock
+22:39:45 waiting....
+22:39:46 Code invalid
+22:41:29 Start smartlock!!!
+22:42:26 ===========================
+22:42:26 <input> 123456789
+22:42:26 receive normal key
+22:42:26 RECEIVER USE KEYBOARD
+22:42:26 <code> 23456789
+22:42:26 API receiver Unlock
+22:42:26 waiting....
+22:42:26 Code invalid
+22:43:40 Start smartlock!!!
+22:43:44 ===========================
+22:43:44 <input> 123456789
+22:43:44 receive normal key
+22:43:44 RECEIVER USE KEYBOARD
+22:43:44 <code> 23456789
+22:43:44 API receiver Unlock
+22:43:44 waiting....
+22:43:44 Code invalid
+22:44:08 ===========================
+22:44:08 <input> 123456789
+22:44:08 receive normal key
+22:44:08 RECEIVER USE KEYBOARD
+22:44:08 <code> 23456789
+22:44:08 API receiver Unlock
+22:44:08 waiting....
+22:44:08 Code invalid
+22:47:21 ===========================
+22:47:21 <input> 1
+22:47:21 receive normal key
+22:47:21 RECEIVER USE KEYBOARD
+22:47:21 <code> 
+22:47:21 API receiver Unlock
+22:47:21 waiting....
+22:47:21 Code invalid
+22:49:54 Start smartlock!!!
+22:50:02 ===========================
+22:50:02 <input> 123456789
+22:50:02 receive normal key
+22:50:02 RECEIVER USE KEYBOARD
+22:50:02 <code> 23456789
+22:50:02 API receiver Unlock
+22:50:02 waiting....
+22:50:02 Code invalid
+22:50:56 Start smartlock!!!
+22:51:02 ===========================
+22:51:02 <input> 123456789
+22:51:02 receive normal key
+22:51:02 RECEIVER USE KEYBOARD
+22:51:02 <code> 23456789
+22:51:02 API receiver Unlock
+22:51:02 waiting....
+22:51:02 Code invalid
+22:51:46 Start smartlock!!!
+22:51:57 ===========================
+22:51:57 <input> 11223444�
+22:51:57 receive normal key
+22:51:57 RECEIVER USE KEYBOARD
+22:51:57 <code> 1223444�
+22:51:57 API receiver Unlock
+22:51:57 waiting....
+22:51:57 Code invalid
+22:53:02 Start smartlock!!!
+22:53:07 ===========================
+22:53:07 <input> 123456789
+22:53:07 receive normal key
+22:53:07 RECEIVER USE KEYBOARD
+22:53:07 <code> 23456789
+22:53:07 API receiver Unlock
+22:53:07 waiting....
+22:53:07 Code invalid
+22:53:56 Start smartlock!!!
+22:54:14 ===========================
+22:54:14 <input> 123456789
+22:54:14 receive normal key
+22:54:14 RECEIVER USE KEYBOARD
+22:54:14 <code> 23456789
+22:54:14 API receiver Unlock
+22:54:14 waiting....
+22:54:14 Code invalid
+22:55:12 Start smartlock!!!
+22:55:16 ===========================
+22:55:16 <input> 123456789
+22:55:16 receive normal key
+22:55:16 RECEIVER USE KEYBOARD
+22:55:16 <code> 23456789
+22:55:16 API receiver Unlock
+22:55:16 waiting....
+22:55:17 Code invalid
+22:56:43 Start smartlock!!!
+22:56:48 ===========================
+22:56:48 <input> 123456789
+22:56:48 receive normal key
+22:56:48 RECEIVER USE KEYBOARD
+22:56:48 <code> 23456789
+22:56:48 API receiver Unlock
+22:56:48 waiting....
+22:56:48 Code invalid
+22:57:36 Start smartlock!!!
+22:59:41 ===========================
+22:59:41 <input> 123456789
+22:59:41 receive normal key
+22:59:41 RECEIVER USE KEYBOARD
+22:59:41 <code> 23456789
+22:59:41 API receiver Unlock
+22:59:41 waiting....
+22:59:42 Code invalid
+23:01:13 Start smartlock!!!
+23:01:18 ===========================
+23:01:18 <input> 123456789
+23:01:18 receive normal key
+23:01:18 RECEIVER USE KEYBOARD
+23:01:18 <code> 23456789
+23:01:18 API receiver Unlock
+23:01:18 waiting....
+23:01:18 Code invalid
+23:02:56 Start smartlock!!!
+23:03:02 ===========================
+23:03:02 <input> D4�4�
+23:03:02 receive normal key
+23:03:02 Code invalid!
+23:54:31 Start smartlock!!!
+23:55:40 Start smartlock!!!
+23:55:42 ===========================
+23:55:42 <input> 3456789��
+23:55:42 receive normal key
+23:55:42 Code invalid!
+23:56:54 Start smartlock!!!
+23:57:07 ===========================
+23:57:07 <input> 123456789
+23:57:07 receive normal key
+23:57:07 RECEIVER USE KEYBOARD
+23:57:07 <code> 23456789
+23:57:07 API receiver Unlock
+23:57:07 waiting....
+23:57:08 Code invalid
+23:58:19 Start smartlock!!!
+23:58:26 ===========================
+23:58:26 <input> 123456789
+23:58:26 receive normal key
+23:58:26 RECEIVER USE KEYBOARD
+23:58:26 <code> 23456789
+23:58:26 API receiver Unlock
+23:58:26 waiting....
+23:58:27 Code invalid
+23:59:40 Start smartlock!!!
+23:59:53 ===========================
+23:59:53 <input> 123456789
+23:59:53 receive normal key
+23:59:53 RECEIVER USE KEYBOARD
+23:59:53 <code> 23456789
+23:59:53 API receiver Unlock
+23:59:53 waiting....
+23:59:53 Code invalid

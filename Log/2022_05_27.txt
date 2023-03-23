@@ -1,0 +1,47 @@
+10:49:51 Start smartlock!!!
+11:01:22 Start smartlock!!!
+11:03:47 Start smartlock!!!
+11:14:26 Start smartlock!!!
+11:17:09 ===========================
+11:17:09 <input> 042870707
+11:17:09 receive normal key
+11:17:09 SENDER USE KEYBOARD
+11:17:09 <code> 42870707
+11:17:09 Sender unlock
+11:17:09 waiting....
+11:17:14 receiver_code: 171329226
+11:17:14 drawer_position: B2
+11:17:14 Unlock position B2 success!
+11:17:17 Waiting Lock position: B2
+11:17:17 API lock
+11:17:17 waiting....
+11:17:18 Lock position B2 success!
+11:17:48 ===========================
+11:17:48 <input> 18
+11:17:48 receive normal key
+11:17:48 RECEIVER USE KEYBOARD
+11:17:48 <code> 8
+11:17:48 API receiver Unlock
+11:17:48 waiting....
+11:17:48 Code invalid
+11:18:26 ===========================
+11:18:26 <input> 171329226
+11:18:26 receive normal key
+11:18:26 RECEIVER USE KEYBOARD
+11:18:26 <code> 71329226
+11:18:26 API receiver Unlock
+11:18:26 waiting....
+11:18:26 Unlock position B2 success!
+11:18:29 Waiting Lock position: B2
+11:18:29 API lock
+11:18:29 waiting....
+11:18:29 Lock position B2 success!
+11:22:13 ===========================
+11:22:13 <input> 1
+11:22:13 receive normal key
+11:22:13 RECEIVER USE KEYBOARD
+11:22:13 <code> 
+11:22:13 API receiver Unlock
+11:22:13 waiting....
+11:22:18 Code invalid
+11:25:23 Start smartlock!!!

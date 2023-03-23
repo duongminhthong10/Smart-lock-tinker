@@ -1,0 +1,45 @@
+18:24:19 ===========================
+18:24:19 <input> 15738125
+18:24:19 receive normal key
+18:24:19 RECEIVER USE KEYBOARD
+18:24:19 <code> 5738125
+18:24:19 API receiver Unlock
+18:24:19 waiting....
+18:24:20 Code invalid
+18:24:23 ===========================
+18:24:23 <input> 1
+18:24:23 receive normal key
+18:24:23 RECEIVER USE KEYBOARD
+18:24:23 <code> 
+18:24:23 API receiver Unlock
+18:24:23 waiting....
+18:24:23 Code invalid
+18:24:39 ===========================
+18:24:39 <input> 124216133
+18:24:39 receive normal key
+18:24:39 RECEIVER USE KEYBOARD
+18:24:39 <code> 24216133
+18:24:39 API receiver Unlock
+18:24:39 waiting....
+18:24:39 Unlock position A41 success!
+18:24:40 Waiting Lock position: A41
+18:24:41 API lock
+18:24:41 waiting....
+18:24:41 Lock position A41 success!
+18:24:51 ===========================
+18:24:51 <input> 124216133
+18:24:51 receive normal key
+18:24:51 RECEIVER USE KEYBOARD
+18:24:51 <code> 24216133
+18:24:51 API receiver Unlock
+18:24:51 waiting....
+18:24:52 Code invalid
+18:25:55 ===========================
+18:25:55 <input> 299999999
+18:25:56 admin tool active
+18:25:58 admin tool press Page up
+18:25:58 35
+18:25:58 admin tool open
+18:26:11 ===========================
+18:26:11 <input> 299999999
+18:26:12 admin tool deactive

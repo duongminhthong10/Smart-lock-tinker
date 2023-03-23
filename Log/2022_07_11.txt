@@ -1,0 +1,33 @@
+15:59:16 ===========================
+15:59:16 <input> D�4��
+15:59:16 receive normal key
+15:59:16 Code invalid!
+15:59:30 ===========================
+15:59:30 <input> D
+15:59:30 receive normal key
+15:59:30 Code invalid!
+15:59:33 ===========================
+15:59:33 <input> D
+15:59:33 receive normal key
+15:59:33 Code invalid!
+15:59:36 ===========================
+15:59:36 <input> D
+15:59:36 receive normal key
+15:59:36 Code invalid!
+15:59:38 ===========================
+15:59:38 <input> D
+15:59:38 receive normal key
+15:59:39 Code invalid!
+16:04:40 ===========================
+16:04:40 <input> D
+16:04:40 receive normal key
+16:04:41 Code invalid!
+17:06:36 Start smartlock!!!
+17:06:45 ===========================
+17:06:45 <input> D��4k
+17:06:45 receive normal key
+17:06:45 Code invalid!
+17:06:49 ===========================
+17:06:49 <input> D
+17:06:49 receive normal key
+17:06:49 Code invalid!

@@ -1,0 +1,10 @@
+04:45:21 Start smartlock!!!
+10:17:59 Start smartlock!!!
+12:12:10 ===========================
+12:12:10 <input> 12��4K��
+12:12:10 receive normal key
+12:12:10 RECEIVER USE KEYBOARD
+12:12:10 <code> 2��4K��
+12:12:10 API receiver Unlock
+12:12:10 waiting....
+12:12:10 Code invalid

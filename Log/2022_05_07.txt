@@ -1,0 +1,295 @@
+08:20:28 ===========================
+08:20:28 <input> 0
+08:20:28 receive normal key
+08:20:28 SENDER USE KEYBOARD
+08:20:28 <code> 
+08:20:28 Sender unlock
+08:20:28 waiting....
+08:20:28 Code invalid
+09:55:10 ===========================
+09:55:10 <input> 014112545
+09:55:10 receive normal key
+09:55:10 SENDER USE KEYBOARD
+09:55:10 <code> 14112545
+09:55:10 Sender unlock
+09:55:10 waiting....
+09:55:10 receiver_code: 193826448
+09:55:10 drawer_position: A45
+09:55:10 Unlock position A45 success!
+09:55:12 Waiting Lock position: A45
+09:55:12 API lock
+09:55:12 waiting....
+09:55:12 Lock position A45 success!
+10:11:44 ===========================
+10:11:44 <input> 068245522
+10:11:44 receive normal key
+10:11:44 SENDER USE KEYBOARD
+10:11:44 <code> 68245522
+10:11:44 Sender unlock
+10:11:44 waiting....
+10:11:44 Code invalid
+10:12:22 ===========================
+10:12:22 <input> 166371818
+10:12:22 receive normal key
+10:12:22 RECEIVER USE KEYBOARD
+10:12:22 <code> 66371818
+10:12:22 API receiver Unlock
+10:12:22 waiting....
+10:12:22 Unlock position A11 success!
+10:12:23 Waiting Lock position: A11
+10:12:24 API lock
+10:12:24 waiting....
+10:12:24 Lock position A11 success!
+10:20:11 ===========================
+10:20:11 <input> 038795888
+10:20:11 receive normal key
+10:20:11 SENDER USE KEYBOARD
+10:20:11 <code> 38795888
+10:20:11 Sender unlock
+10:20:11 waiting....
+10:20:11 receiver_code: 124216133
+10:20:11 drawer_position: A41
+10:20:11 Unlock position A41 success!
+10:20:13 Waiting Lock position: A41
+10:20:13 API lock
+10:20:13 waiting....
+10:20:13 Lock position A41 success!
+10:20:35 ===========================
+10:20:35 <input> 038795888
+10:20:35 receive normal key
+10:20:35 SENDER USE KEYBOARD
+10:20:35 <code> 38795888
+10:20:35 Sender unlock
+10:20:35 waiting....
+10:20:35 Code invalid
+10:21:08 ===========================
+10:21:08 <input> 058481942
+10:21:08 receive normal key
+10:21:08 SENDER USE KEYBOARD
+10:21:08 <code> 58481942
+10:21:08 Sender unlock
+10:21:08 waiting....
+10:21:08 receiver_code: 183027348
+10:21:08 drawer_position: A40
+10:21:08 Unlock position A40 success!
+10:21:09 Waiting Lock position: A40
+10:21:09 API lock
+10:21:09 waiting....
+10:21:10 Lock position A40 success!
+10:21:51 ===========================
+10:21:51 <input> 017697100
+10:21:51 receive normal key
+10:21:51 SENDER USE KEYBOARD
+10:21:51 <code> 17697100
+10:21:51 Sender unlock
+10:21:51 waiting....
+10:21:51 receiver_code: 157338125
+10:21:51 drawer_position: A35
+10:21:51 Unlock position A35 success!
+10:21:52 Waiting Lock position: A35
+10:21:52 API lock
+10:21:52 waiting....
+10:21:53 Lock position A35 success!
+12:24:29 ===========================
+12:24:29 RECEIVER SCAN QR
+12:24:29 <code> 93826448
+12:24:29 API receiver Unlock
+12:24:29 waiting....
+12:24:30 Unlock position A45 success!
+12:24:31 Waiting Lock position: A45
+12:24:31 API lock
+12:24:31 waiting....
+12:24:31 Lock position A45 success!
+12:17:20 Start smartlock!!!
+14:38:56 ===========================
+14:38:56 <input> 085867939
+14:38:56 receive normal key
+14:38:56 SENDER USE KEYBOARD
+14:38:56 <code> 85867939
+14:38:56 Sender unlock
+14:38:56 waiting....
+14:38:56 receiver_code: 178239724
+14:38:56 drawer_position: A45
+14:38:56 Unlock position A45 success!
+14:38:57 Waiting Lock position: A45
+14:38:57 API lock
+14:38:57 waiting....
+14:38:58 Lock position A45 success!
+14:39:48 ===========================
+14:39:48 <input> 299999999
+14:39:48 admin tool active
+14:39:50 admin tool press Page up
+14:39:50 19
+14:39:50 admin tool open
+14:39:59 ===========================
+14:39:59 <input> 299999999
+14:39:59 admin tool deactive
+14:17:19 Start smartlock!!!
+14:17:31 ===========================
+14:17:31 <input> 299999999
+14:17:32 admin tool active
+14:41:19 ===========================
+14:41:19 <input> 299999999
+14:41:20 admin tool deactive
+15:27:54 ===========================
+15:27:54 <input> 082833616
+15:27:54 receive normal key
+15:27:54 SENDER USE KEYBOARD
+15:27:54 <code> 82833616
+15:27:54 Sender unlock
+15:27:54 waiting....
+15:27:54 receiver_code: 184721938
+15:27:54 drawer_position: A31
+15:27:54 Unlock position A31 success!
+15:27:55 Waiting Lock position: A31
+15:27:56 API lock
+15:27:56 waiting....
+15:27:56 Lock position A31 success!
+16:24:37 ===========================
+16:24:37 <input> 183027348
+16:24:37 receive normal key
+16:24:37 RECEIVER USE KEYBOARD
+16:24:37 <code> 83027348
+16:24:37 API receiver Unlock
+16:24:37 waiting....
+16:24:38 Unlock position A40 success!
+16:24:39 Waiting Lock position: A40
+16:24:39 API lock
+16:24:39 waiting....
+16:24:39 Lock position A40 success!
+16:25:04 ===========================
+16:25:04 <input> 195748892
+16:25:04 receive normal key
+16:25:04 RECEIVER USE KEYBOARD
+16:25:04 <code> 95748892
+16:25:04 API receiver Unlock
+16:25:04 waiting....
+16:25:04 Unlock position A15 success!
+16:25:05 Waiting Lock position: A15
+16:25:06 API lock
+16:25:06 waiting....
+16:25:06 Lock position A15 success!
+16:25:24 ===========================
+16:25:24 RECEIVER SCAN QR
+16:25:24 <code> 12684729
+16:25:24 API receiver Unlock
+16:25:24 waiting....
+16:25:24 Unlock position A32 success!
+16:25:26 Waiting Lock position: A32
+16:25:26 API lock
+16:25:26 waiting....
+16:25:26 Lock position A32 success!
+16:25:29 ===========================
+16:25:29 RECEIVER SCAN QR
+16:25:29 <code> 12684729
+16:25:29 API receiver Unlock
+16:25:29 waiting....
+16:25:30 Code invalid
+16:26:13 ===========================
+16:26:13 RECEIVER SCAN QR
+16:26:13 <code> 80357468
+16:26:13 API receiver Unlock
+16:26:13 waiting....
+16:26:13 Unlock position A2 success!
+16:26:14 Waiting Lock position: A2
+16:26:15 API lock
+16:26:15 waiting....
+16:26:15 Lock position A2 success!
+16:26:30 ===========================
+16:26:30 RECEIVER SCAN QR
+16:26:30 <code> 17218923
+16:26:30 API receiver Unlock
+16:26:30 waiting....
+16:26:31 Unlock position A22 success!
+16:26:32 Waiting Lock position: A22
+16:26:32 API lock
+16:26:32 waiting....
+16:26:32 Lock position A22 success!
+16:26:50 ===========================
+16:26:50 RECEIVER SCAN QR
+16:26:50 <code> 55049622
+16:26:50 API receiver Unlock
+16:26:50 waiting....
+16:26:50 Unlock position A13 success!
+16:26:52 Waiting Lock position: A13
+16:26:52 API lock
+16:26:52 waiting....
+16:26:52 Lock position A13 success!
+16:27:49 ===========================
+16:27:49 RECEIVER SCAN QR
+16:27:49 <code> 62871461
+16:27:49 API receiver Unlock
+16:27:49 waiting....
+16:27:49 Unlock position A5 success!
+16:27:51 Waiting Lock position: A5
+16:27:51 API lock
+16:27:51 waiting....
+16:27:51 Lock position A5 success!
+16:28:18 ===========================
+16:28:18 RECEIVER SCAN QR
+16:28:18 <code> 81184677
+16:28:18 API receiver Unlock
+16:28:18 waiting....
+16:28:18 Unlock position A23 success!
+16:28:20 Waiting Lock position: A23
+16:28:20 API lock
+16:28:20 waiting....
+16:28:20 Lock position A23 success!
+16:28:51 ===========================
+16:28:51 RECEIVER SCAN QR
+16:28:51 <code> 27291754
+16:28:51 API receiver Unlock
+16:28:51 waiting....
+16:28:52 Unlock position A44 success!
+16:28:53 Waiting Lock position: A44
+16:28:53 API lock
+16:28:53 waiting....
+16:28:53 Lock position A44 success!
+16:56:57 ===========================
+16:56:57 <input> 178239724
+16:56:57 receive normal key
+16:56:57 RECEIVER USE KEYBOARD
+16:56:57 <code> 78239724
+16:56:57 API receiver Unlock
+16:56:57 waiting....
+16:56:58 Unlock position A45 success!
+16:56:59 Waiting Lock position: A45
+16:56:59 API lock
+16:56:59 waiting....
+16:56:59 Lock position A45 success!
+18:15:48 ===========================
+18:15:48 RECEIVER SCAN QR
+18:15:48 <code> 65727128
+18:15:48 API receiver Unlock
+18:15:48 waiting....
+18:15:48 Unlock position A16 success!
+18:15:50 Waiting Lock position: A16
+18:15:50 API lock
+18:15:50 waiting....
+18:15:50 Lock position A16 success!
+19:04:17 ===========================
+19:04:17 <input> 048161685
+19:04:17 receive normal key
+19:04:17 SENDER USE KEYBOARD
+19:04:17 <code> 48161685
+19:04:17 Sender unlock
+19:04:17 waiting....
+19:04:18 receiver_code: 194494271
+19:04:18 drawer_position: A45
+19:04:18 Unlock position A45 success!
+19:04:19 Waiting Lock position: A45
+19:04:19 API lock
+19:04:19 waiting....
+19:04:19 Lock position A45 success!
+20:15:55 ===========================
+20:15:55 <input> 194494271
+20:15:55 receive normal key
+20:15:55 RECEIVER USE KEYBOARD
+20:15:55 <code> 94494271
+20:15:55 API receiver Unlock
+20:15:55 waiting....
+20:15:56 Unlock position A45 success!
+20:15:57 Waiting Lock position: A45
+20:15:57 API lock
+20:15:57 waiting....
+20:15:57 Lock position A45 success!

@@ -1,0 +1,50 @@
+04:45:21 Start smartlock!!!
+11:03:16 ===========================
+11:03:16 <input> 30
+11:03:16 receive normal key
+11:03:16 Code invalid!
+17:26:11 ===========================
+17:26:11 <input> 299999999
+17:26:12 admin tool active
+17:26:13 admin tool press Page up
+17:26:13 Key: 12
+17:26:13 Sellected ID: 12
+17:26:13 admin tool open
+17:26:17 admin tool press Page up
+17:26:17 Key: 17
+17:26:17 Sellected ID: 17
+17:26:17 admin tool open
+17:26:21 admin tool press Page up
+17:26:21 Key: 17
+17:26:21 Sellected ID: 17
+17:26:21 admin tool open
+17:38:46 ===========================
+17:38:46 <input> 299999999
+17:38:46 admin tool deactive
+17:43:20 ===========================
+17:43:20 <input> 299999999
+17:43:21 admin tool active
+17:43:24 admin tool press Page up
+17:43:24 Key: 17
+17:43:24 Sellected ID: 17
+17:43:24 admin tool open
+17:45:41 ===========================
+17:45:41 <input> 299999999
+17:45:42 admin tool deactive
+17:55:47 admin tool press Page up
+17:55:47 Key: 1
+17:55:47 Sellected ID: 1
+17:55:54 ===========================
+17:55:54 <input> 04524785
+17:55:54 receive normal key
+17:55:54 SENDER USE KEYBOARD
+17:55:54 <code> 4524785
+17:55:54 Sender unlock
+17:55:54 waiting....
+17:55:54 Code invalid
+17:57:46 admin tool press Page up
+17:57:46 Key: 5
+17:57:46 Sellected ID: 5
+17:57:47 admin tool press Page up
+17:57:47 Key: 5
+17:57:47 Sellected ID: 5

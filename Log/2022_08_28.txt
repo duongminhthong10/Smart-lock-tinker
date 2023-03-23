@@ -1,0 +1,48 @@
+04:45:22 Start smartlock!!!
+16:07:41 ===========================
+16:07:41 <input> 501958525
+16:07:41 receive normal key
+16:07:41 Code invalid!
+16:08:02 ===========================
+16:08:02 <input> 019244064
+16:08:02 receive normal key
+16:08:02 SENDER USE KEYBOARD
+16:08:02 <code> 19244064
+16:08:02 Sender unlock
+16:08:02 waiting....
+16:08:02 receiver_code: 196243294
+16:08:02 drawer_position: A5
+16:08:02 Unlock position A5 success!
+16:08:05 Waiting Lock position: A5
+16:08:05 API lock
+16:08:05 waiting....
+16:08:05 Lock position A5 success!
+17:18:11 ===========================
+17:18:11 <input> 023878
+17:18:11 receive normal key
+17:18:11 SENDER USE KEYBOARD
+17:18:11 <code> 23878
+17:18:11 Sender unlock
+17:18:11 waiting....
+17:18:12 Code invalid
+18:08:18 ===========================
+18:08:18 <input> 0
+18:08:18 receive normal key
+18:08:18 SENDER USE KEYBOARD
+18:08:18 <code> 
+18:08:18 Sender unlock
+18:08:19 waiting....
+18:08:19 Code invalid
+18:08:22 ===========================
+18:08:22 <input> 0
+18:08:22 receive normal key
+18:08:22 SENDER USE KEYBOARD
+18:08:22 <code> 
+18:08:22 Sender unlock
+18:08:22 waiting....
+18:08:22 Code invalid
+18:08:33 admin tool press Page up
+18:08:33 Key: 0
+18:08:33 Sellected ID: 255
+18:08:33 admin tool press Page down
+18:08:33 0
